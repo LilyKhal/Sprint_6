@@ -1,5 +1,5 @@
-import com.example.Feline;
-import com.example.Lion;
+
+
 import com.example.AlexLion;
 import org.junit.Before;
 import org.junit.Test;
@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
-
+import com.example.Feline;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
